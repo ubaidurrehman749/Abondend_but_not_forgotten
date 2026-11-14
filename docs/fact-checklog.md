@@ -18,7 +18,7 @@ This document tracks the accuracy of historical and scientific information prese
 
 | No. | Subject | Information to Verify | Source | Status |
 |---|---|---|---|---|
-| 1 | Opportunity Rover | Launch date, landing date, mission objectives, and achievements | NASA official mission archive (source to be added) | Verified |
+| 1 | Opportunity Rover | Launch date, landing date, mission objectives, and achievements | [NASA official mission archive (source to be added)](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/science-highlights/?utm_source=chatgpt.com) | Verified |
 | 2 | Spacecraft / Mission | Mission name, launch date, destination, and objectives | NASA official website | Pending |
 | 3 | Space Exploration | Historical events and scientific discoveries | NASA official publications | Pending |
 | 4 | Mission Equipment | Names, functions, and technical details of equipment | NASA technical resources | Pending |
