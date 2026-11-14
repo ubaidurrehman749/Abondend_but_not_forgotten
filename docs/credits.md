@@ -82,4 +82,4 @@ Our 3D visual canvas combines official NASA planetary hardware models with custo
 
 ---
 
-*Verified and Published by Zarnish Fatima (Content & Resource Lead) — November 15, 2026*
+*Verified and Published by Zarnish Fatima (Content & Resource Lead) — November 14, 2026*
