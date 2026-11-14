@@ -1,5 +1,6 @@
 import { useEffect, useId, useRef, useState, type FormEvent } from 'react';
 import type { Mission, QuestionTheme } from '../types/mission';
+import { toTheme } from '../data/display';
 import './OpenQuestion.css';
 
 export interface OpenQuestionAnswer {
@@ -61,7 +62,7 @@ export function OpenQuestion({
       missionId: mission.id,
       choice,
       evidence,
-      theme: mission.openQuestion.theme ?? mission.questionTheme,
+      theme: toTheme(mission.openQuestion.theme ?? mission.questionTheme),
     });
     setSubmitted(true);
   }
