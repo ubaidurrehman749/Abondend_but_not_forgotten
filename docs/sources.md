@@ -11,9 +11,9 @@
 ## Table of contents
 
 - [Core mission data sources](#core-mission-data-sources)
-  - [Core 1 — Opportunity Rover (Mars)](#core-1--opportunity-rover-mars)
-  - [Core 2 — Apollo Lunar Roving Vehicle (Moon)](#core-2--apollo-lunar-roving-vehicle-moon)
-  - [Core 3 — Ingenuity Mars Helicopter (Mars)](#core-3--ingenuity-mars-helicopter-mars)
+  - [Core 1: Opportunity Rover (Mars)](#core-1--opportunity-rover-mars)
+  - [Core 2: Apollo Lunar Roving Vehicle (Moon)](#core-2--apollo-lunar-roving-vehicle-moon)
+  - [Core 3: Ingenuity Mars Helicopter (Mars)](#core-3--ingenuity-mars-helicopter-mars)
 - [Additional space hardware archives](#additional-space-hardware-archives)
 - [Audit log](#audit-log)
 
@@ -23,21 +23,21 @@
 
 > Listed in the exact sequence used in the project.
 
-### Core 1 — Opportunity Rover (Mars)
+### Core 1: Opportunity Rover (Mars)
 
 | | Source | Publisher | Key verified data |
 |---|---|---|---|
 | **Primary** | [NASA Opportunity Overview](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/) | NASA Jet Propulsion Laboratory (JPL) | Landing date (Jan 24, 2004) · distance driven (45.16 km / 28.06 mi) · mission duration (15 years) · hematite and gypsum discoveries |
 | **Secondary** | [NASA Science: Mars Exploration Rovers Highlights](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/science-highlights/) | NASA Science Planetary Division | Surface-water evidence · Gusev and Meridiani Planum geological findings |
 
-### Core 2 — Apollo Lunar Roving Vehicle (Moon)
+### Core 2: Apollo Lunar Roving Vehicle (Moon)
 
 | | Source | Publisher | Key verified data |
 |---|---|---|---|
 | **Primary** | [Apollo 15 Lunar Module / LRV record (NSSDCA/COSPAR ID: 1971-063C)](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063C) | NASA National Space Science Data Center (NSSDC) | Landing date (July 30, 1971) · total distance driven (27.9 km on Apollo 15; 36 km on Apollo 17) · lunar speed record (11.2 mph) |
 | **Secondary** | [NASA LRV Historical Archive](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063C) | NASA Marshall Space Flight Center | Battery-powered drive system · mass · dimensions · deployment mechanics |
 
-### Core 3 — Ingenuity Mars Helicopter (Mars)
+### Core 3: Ingenuity Mars Helicopter (Mars)
 
 | | Source | Publisher | Key verified data |
 |---|---|---|---|
