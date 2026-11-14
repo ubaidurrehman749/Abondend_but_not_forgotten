@@ -36,9 +36,9 @@ Mission facts, evidence labels, and legacy statements in the app are checked aga
 | Mission | Source | Publisher | Link |
 | :--- | :--- | :--- | :--- |
 | Opportunity | Mars Exploration Rovers: Spirit and Opportunity | NASA Science | [science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/) |
-| Opportunity | Mars Exploration Rovers Science Highlights | NASA Science Planetary Division | [science.nasa.gov/.../science-highlights/](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/science-highlights/) |
-| Apollo LRV | The Apollo Lunar Roving Vehicle | NASA National Space Science Data Center (NSSDC) | [nssdc.gsfc.nasa.gov/planetary/lunar/apollo_lrv.html](https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_lrv.html) |
-| Apollo LRV | A Brief History of the Lunar Roving Vehicle | NASA Marshall Space Flight Center | [MSFC-LRV.pdf](https://www.nasa.gov/wp-content/uploads/static/history/alsj/MSFC-LRV.pdf) |
+| Opportunity | Mars Exploration Rovers Science Highlights | NASA Science Planetary Division | [science.nasa.gov/.../science-highlights/](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/) |
+| Apollo LRV | The Apollo Lunar Roving Vehicle | NASA National Space Science Data Center (NSSDC) | [nssdc.gsfc.nasa.gov/planetary/lunar/apollo_lrv.html](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063C) |
+| Apollo LRV | A Brief History of the Lunar Roving Vehicle | NASA Marshall Space Flight Center | [MSFC-LRV.pdf](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063C) |
 
 ---
 
