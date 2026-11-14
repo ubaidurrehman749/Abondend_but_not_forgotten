@@ -42,7 +42,7 @@
 | | Source | Publisher | Key verified data |
 |---|---|---|---|
 | **Primary** | [NASA JPL Ingenuity Mars Helicopter updates](https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/) | NASA Jet Propulsion Laboratory (JPL) | Landing date (Feb 18, 2021) · first flight (Apr 19, 2021) · 72 total flights · 17.0 km total flight distance · 24 m max altitude |
-| **Secondary** | [NASA press release: Ingenuity mission conclusion](https://www.nasa.gov/press-release/after-3-years-on-mars-nasa-s-ingenuity-helicopter-mission-ends) | NASA Headquarters | End of flight operations (Jan 25, 2024) · rotor blade damage analysis |
+| **Secondary** | [NASA press release: Ingenuity mission conclusion](https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/) | NASA Headquarters | End of flight operations (Jan 25, 2024) · rotor blade damage analysis |
 
 ---
 
