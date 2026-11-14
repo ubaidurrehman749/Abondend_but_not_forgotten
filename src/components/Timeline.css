@@ -5,8 +5,8 @@
   --tl-line: var(--panel-line, rgba(160, 180, 230, 0.16));
   --tl-accent: var(--accent, #8ab4ff);
   --tl-focus: var(--focus-ring, #ffd166);
-  --tl-font: var(--font-body, 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif);
-  --tl-display: var(--font-display, 'Space Grotesk', 'Inter', system-ui, sans-serif);
+  --tl-font: var(--font-body, 'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif);
+  --tl-display: var(--font-display, 'Newsreader', 'Iowan Old Style', Georgia, serif);
 
   position: relative;
   overflow: hidden;
@@ -17,7 +17,7 @@
   border-radius: 24px;
   border: 1px solid var(--tl-line);
   background:
-    radial-gradient(120% 80% at 100% 0%, rgba(110, 140, 255, 0.12), transparent 55%),
+    radial-gradient(120% 80% at 100% 0%, rgba(120, 160, 210, 0.08), transparent 55%),
     linear-gradient(180deg, rgba(20, 28, 54, 0.92), rgba(9, 13, 28, 0.96));
   box-shadow:
     0 1px 0 rgba(255, 255, 255, 0.06) inset,
@@ -35,7 +35,7 @@
 .timeline__name {
   font-family: var(--tl-display);
   font-size: clamp(1.4rem, 3.5vw, 1.9rem);
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: -0.02em;
   line-height: 1.15;
 }
@@ -88,7 +88,7 @@
   background: rgba(255, 255, 255, 0.03);
 }
 .timeline__tag--body { color: var(--tl-text); border-style: solid; border-radius: 999px; }
-.timeline__tag--inactive { color: #cdbdff; border-style: solid; }
+.timeline__tag--inactive { color: #b9c6dc; border-style: solid; }
 .timeline__tag--silent { color: #ffc983; border-style: dashed; }
 .timeline__tag--operating { color: #86e8ab; border-style: dotted; }
 
@@ -96,7 +96,7 @@
   margin: 0 0 0.35rem;
   font-family: var(--tl-display);
   font-size: 1.25rem;
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: -0.01em;
 }
 .timeline__goal { margin: 0; color: var(--tl-muted); line-height: 1.55; max-width: 60ch; }

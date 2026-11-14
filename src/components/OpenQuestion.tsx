@@ -68,10 +68,12 @@ export function OpenQuestion({
 
   if (submitted && choice) {
     return (
-      <section className="open-question" aria-labelledby={`${uid}-done`}>
+      <section
+        className="open-question"
+        aria-label={`Your question about ${mission.name}`}
+      >
         <p className="open-question__eyebrow">Your question</p>
         <h2
-          id={`${uid}-done`}
           ref={reflection}
           tabIndex={-1}
           className="open-question__prompt"

@@ -5,8 +5,8 @@
   --qe-line: var(--panel-line, rgba(160, 180, 230, 0.16));
   --qe-accent: var(--accent, #8ab4ff);
   --qe-star: #ffe9a8;
-  --qe-font: var(--font-body, 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif);
-  --qe-display: var(--font-display, 'Space Grotesk', 'Inter', system-ui, sans-serif);
+  --qe-font: var(--font-body, 'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif);
+  --qe-display: var(--font-display, 'Newsreader', 'Iowan Old Style', Georgia, serif);
 
   position: relative;
   overflow: hidden;
@@ -17,7 +17,7 @@
   border-radius: 24px;
   border: 1px solid var(--qe-line);
   background:
-    radial-gradient(100% 70% at 50% 0%, rgba(150, 110, 255, 0.16), transparent 60%),
+    radial-gradient(100% 70% at 50% 0%, rgba(120, 160, 210, 0.08), transparent 60%),
     linear-gradient(180deg, rgba(14, 18, 42, 0.95), rgba(6, 9, 20, 0.98));
   box-shadow:
     0 1px 0 rgba(255, 255, 255, 0.06) inset,
@@ -35,7 +35,7 @@
 .echo__name {
   font-family: var(--qe-display);
   font-size: clamp(1.4rem, 3.5vw, 1.9rem);
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: -0.02em;
   line-height: 1.15;
 }
@@ -60,7 +60,7 @@
   gap: 0.5rem;
   font-family: var(--qe-display);
   font-size: 1.1rem;
-  font-weight: 600;
+  font-weight: 500;
 }
 .echo__count { font-family: var(--qe-font); font-size: 0.75rem; font-weight: 500; color: var(--qe-muted); }
 

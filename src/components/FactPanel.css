@@ -6,8 +6,8 @@
   --fp-tile: rgba(255, 255, 255, 0.04);
   --fp-accent: var(--accent, #8ab4ff);
   --fp-focus: var(--focus-ring, #ffd166);
-  --fp-font: var(--font-body, 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif);
-  --fp-display: var(--font-display, 'Space Grotesk', 'Inter', system-ui, sans-serif);
+  --fp-font: var(--font-body, 'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif);
+  --fp-display: var(--font-display, 'Newsreader', 'Iowan Old Style', Georgia, serif);
 
   position: relative;
   overflow: hidden;
@@ -18,7 +18,7 @@
   border-radius: 24px;
   border: 1px solid var(--fp-line);
   background:
-    radial-gradient(120% 80% at 0% 0%, rgba(110, 140, 255, 0.14), transparent 55%),
+    radial-gradient(120% 80% at 0% 0%, rgba(120, 160, 210, 0.08), transparent 55%),
     linear-gradient(180deg, rgba(20, 28, 54, 0.92), rgba(9, 13, 28, 0.96));
   box-shadow:
     0 1px 0 rgba(255, 255, 255, 0.06) inset,
@@ -36,7 +36,7 @@
 .fact-panel__name {
   font-family: var(--fp-display);
   font-size: clamp(1.6rem, 4vw, 2.25rem);
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: -0.02em;
   line-height: 1.1;
 }
@@ -97,7 +97,7 @@
   border-radius: 8px;
   background: rgba(255, 255, 255, 0.03);
 }
-.fact-status--inactive { color: #cdbdff; border-style: solid; }
+.fact-status--inactive { color: #b9c6dc; border-style: solid; }
 .fact-status--silent { color: #ffc983; border-style: dashed; }
 .fact-status--operating { color: #86e8ab; border-style: dotted; }
 

@@ -1,6 +1,7 @@
 import { useId } from 'react';
 import type { Credit, Source } from '../types/mission';
 import './SourceCredits.css';
+import { useSplitReveal } from '../hooks/useSplitReveal';
 
 export interface SourceCreditsProps {
   sources: Source[];
@@ -15,12 +16,14 @@ export function SourceCredits({
 }: SourceCreditsProps) {
   const headingId = `${useId()}-heading`;
 
+  const titleRef = useSplitReveal<HTMLSpanElement>(title);
+
   return (
     <section className="source-credits" aria-labelledby={headingId}>
       <h2 id={headingId} className="source-credits__title">
         <span className="source-credits__eyebrow">Where this comes from</span>
         <span className="source-credits__sr-only">: </span>
-        <span className="source-credits__name">{title}</span>
+        <span ref={titleRef} className="source-credits__name">{title}</span>
       </h2>
 
       <div className="source-credits__grid">

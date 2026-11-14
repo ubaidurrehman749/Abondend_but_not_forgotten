@@ -5,8 +5,8 @@
   --sc-line: var(--panel-line, rgba(160, 180, 230, 0.16));
   --sc-accent: var(--accent, #8ab4ff);
   --sc-focus: var(--focus-ring, #ffd166);
-  --sc-font: var(--font-body, 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif);
-  --sc-display: var(--font-display, 'Space Grotesk', 'Inter', system-ui, sans-serif);
+  --sc-font: var(--font-body, 'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif);
+  --sc-display: var(--font-display, 'Newsreader', 'Iowan Old Style', Georgia, serif);
 
   position: relative;
   overflow: hidden;
@@ -17,7 +17,7 @@
   border-radius: 24px;
   border: 1px solid var(--sc-line);
   background:
-    radial-gradient(120% 80% at 50% 0%, rgba(110, 140, 255, 0.1), transparent 55%),
+    radial-gradient(120% 80% at 50% 0%, rgba(120, 160, 210, 0.08), transparent 55%),
     linear-gradient(180deg, rgba(20, 28, 54, 0.92), rgba(9, 13, 28, 0.96));
   box-shadow:
     0 1px 0 rgba(255, 255, 255, 0.06) inset,
@@ -35,7 +35,7 @@
 .source-credits__name {
   font-family: var(--sc-display);
   font-size: clamp(1.4rem, 3.5vw, 1.9rem);
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: -0.02em;
   line-height: 1.15;
 }

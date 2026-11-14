@@ -1,6 +1,6 @@
 import { useLayoutEffect, useMemo, useRef } from 'react';
 import { Canvas, useFrame } from '@react-three/fiber';
-import gsap from 'gsap';
+import { gsap } from '../lib/gsap';
 import { AdditiveBlending, type Group } from 'three';
 import type { QuestionTheme } from '../types/mission';
 import { THEME_ORDER } from '../data/display';

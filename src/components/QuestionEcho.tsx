@@ -4,6 +4,7 @@ import { THEME_ORDER, THEME_TEXT } from '../data/display';
 import { useReveal } from '../hooks/useReveal';
 import type { OpenQuestionAnswer } from './OpenQuestion';
 import './QuestionEcho.css';
+import { useSplitReveal } from '../hooks/useSplitReveal';
 
 // Three.js loads only when the Echo is rendered, keeping it out of the first scene's bundle.
 const EchoSky = lazy(() => import('./EchoSky'));
@@ -24,6 +25,8 @@ function webglAvailable(): boolean {
 
 export function QuestionEcho({ answers, missions }: QuestionEchoProps) {
   const headingId = `${useId()}-heading`;
+
+  const titleRef = useSplitReveal<HTMLSpanElement>();
   const names = useMemo(() => new Map(missions.map((m) => [m.id, m.name])), [missions]);
   const [hasGl] = useState(webglAvailable);
 
@@ -57,7 +60,7 @@ export function QuestionEcho({ answers, missions }: QuestionEchoProps) {
       <h2 id={headingId} className="echo__title">
         <span className="echo__eyebrow">Question Echo</span>
         <span className="echo__sr-only">: </span>
-        <span className="echo__name">Your questions among the stars</span>
+        <span ref={titleRef} className="echo__name">Your questions among the stars</span>
       </h2>
 
       <p className="echo__summary" role="status">

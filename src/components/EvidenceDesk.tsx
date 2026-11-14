@@ -6,6 +6,7 @@ import {
   EVIDENCE_LABEL_TEXT,
 } from '../data/evidenceLabels';
 import './EvidenceDesk.css';
+import { useSplitReveal } from '../hooks/useSplitReveal';
 
 type Filter = 'all' | EvidenceLabel;
 
@@ -21,6 +22,8 @@ export function EvidenceDesk({
 }: EvidenceDeskProps) {
   const uid = useId();
   const headingId = `${uid}-heading`;
+
+  const titleRef = useSplitReveal<HTMLSpanElement>(mission.name);
   const [filter, setFilter] = useState<Filter>('all');
 
   const sourcesById = useMemo(
@@ -70,7 +73,7 @@ export function EvidenceDesk({
       <h2 id={headingId} className="evidence-desk__title">
         <span className="evidence-desk__eyebrow">Evidence desk</span>
         <span className="evidence-desk__sr-only">: </span>
-        <span className="evidence-desk__name">{mission.name}</span>
+        <span ref={titleRef} className="evidence-desk__name">{mission.name}</span>
       </h2>
 
       {!mission.verified && (

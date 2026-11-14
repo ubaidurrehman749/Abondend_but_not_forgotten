@@ -5,8 +5,8 @@
   --oq-line: var(--panel-line, rgba(160, 180, 230, 0.16));
   --oq-accent: var(--accent, #8ab4ff);
   --oq-focus: var(--focus-ring, #ffd166);
-  --oq-font: var(--font-body, 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif);
-  --oq-display: var(--font-display, 'Space Grotesk', 'Inter', system-ui, sans-serif);
+  --oq-font: var(--font-body, 'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif);
+  --oq-display: var(--font-display, 'Newsreader', 'Iowan Old Style', Georgia, serif);
 
   position: relative;
   overflow: hidden;
@@ -17,7 +17,7 @@
   border-radius: 24px;
   border: 1px solid var(--oq-line);
   background:
-    radial-gradient(120% 80% at 0% 100%, rgba(150, 110, 255, 0.14), transparent 55%),
+    radial-gradient(120% 80% at 0% 100%, rgba(120, 160, 210, 0.08), transparent 55%),
     linear-gradient(180deg, rgba(20, 28, 54, 0.92), rgba(9, 13, 28, 0.96));
   box-shadow:
     0 1px 0 rgba(255, 255, 255, 0.06) inset,
@@ -36,7 +36,7 @@
   margin: 0 0 1.25rem;
   font-family: var(--oq-display);
   font-size: clamp(1.4rem, 3.5vw, 1.9rem);
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: -0.02em;
   line-height: 1.2;
   max-width: 28ch;

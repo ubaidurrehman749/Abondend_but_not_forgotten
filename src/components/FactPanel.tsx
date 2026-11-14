@@ -2,6 +2,7 @@ import { useId } from 'react';
 import type { Mission } from '../types/mission';
 import { STATUS_GLYPH, STATUS_TEXT, formatDate } from '../data/display';
 import './FactPanel.css';
+import { useSplitReveal } from '../hooks/useSplitReveal';
 
 export interface FactPanelProps {
   mission: Pick<
@@ -18,6 +19,8 @@ export function FactPanel({
 }: FactPanelProps) {
   const headingId = `${useId()}-heading`;
 
+  const titleRef = useSplitReveal<HTMLSpanElement>(mission.name);
+
   if (!mission.verified && !allowUnverified) return null;
 
   const { status } = mission;
@@ -27,7 +30,7 @@ export function FactPanel({
       <h2 id={headingId} className="fact-panel__title">
         <span className="fact-panel__eyebrow">Fact panel</span>
         <span className="fact-panel__sr-only">: </span>
-        <span className="fact-panel__name">{mission.name}</span>
+        <span ref={titleRef} className="fact-panel__name">{mission.name}</span>
       </h2>
 
       {!mission.verified && (
