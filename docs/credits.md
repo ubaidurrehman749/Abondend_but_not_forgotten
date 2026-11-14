@@ -1,7 +1,10 @@
+
 # Asset Credits
 
 **Project:** Abandoned but Not Forgotten (NASA Space Apps Challenge 2026)
+
 **Team:** UA VEYLORA
+
 **Document Owner:** Zarnish Fatima (Content / Resource Lead)
 
 All NASA assets listed below are used in accordance with the NASA Media Usage Guidelines.
@@ -12,8 +15,8 @@ All NASA assets listed below are used in accordance with the NASA Media Usage Gu
 
 | Asset Name | Creator / Source | Direct Asset Record | License |
 | :--- | :--- | :--- | :--- |
-| **Opportunity Rover** | NASA Visualization Technology Applications and Development (VTAD) | [science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/) | Public Domain |
-| **InSight Lander** | NASA/JPL-Caltech | [science.nasa.gov/resource/insight-lander-3d-model/](https://science.nasa.gov/resource/insight-lander-3d-model/) | Public Domain |
+| **Opportunity Rover** | NASA Visualization Technology Applications and Development (VTAD) | [NASA Science – Opportunity](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/) | Public Domain |
+| **InSight Lander** | NASA/JPL-Caltech | [NASA – InSight Lander 3D Model](https://science.nasa.gov/resource/insight-lander-3d-model/) | Public Domain |
 
 The NASA models were compressed with glTF-Transform (`--compress meshopt --texture-compress false`).
 
@@ -35,11 +38,12 @@ Mission facts, evidence labels, and legacy statements in the app are checked aga
 
 | Mission | Source | Publisher | Link |
 | :--- | :--- | :--- | :--- |
-| Opportunity | Mars Exploration Rovers: Spirit and Opportunity | NASA Science | [science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/) |
-| Opportunity | Mars Exploration Rovers Science Highlights | NASA Science Planetary Division | [science.nasa.gov/.../science-highlights/](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/) |
-| Apollo LRV | The Apollo Lunar Roving Vehicle | NASA National Space Science Data Center (NSSDC) | [nssdc.gsfc.nasa.gov/planetary/lunar/apollo_lrv.html](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063C) |
-| Apollo LRV | A Brief History of the Lunar Roving Vehicle | NASA Marshall Space Flight Center | [MSFC-LRV.pdf](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063C) |
+| Opportunity | Mars Exploration Rovers: Spirit and Opportunity | NASA Science | [NASA Science](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/) |
+| Opportunity | Mars Exploration Rovers Science Highlights | NASA Science | [Science Highlights](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/science-highlights/) |
+| Apollo LRV | The Apollo Lunar Roving Vehicle | NASA National Space Science Data Center (NSSDC) | [NSSDC](https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_lrv.html) |
+| Apollo LRV | A Brief History of the Lunar Roving Vehicle | NASA Marshall Space Flight Center | [MSFC-LRV.pdf](https://www.nasa.gov/wp-content/uploads/static/history/alsj/MSFC-LRV.pdf) |
 
 ---
 
 *Verified and Published by Zarnish Fatima (Content & Resource Lead) - November 14, 2026*
+
