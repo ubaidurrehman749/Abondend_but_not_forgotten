@@ -27,7 +27,7 @@
 
 | | Source | Publisher | Key verified data |
 |---|---|---|---|
-| **Primary** | [NASA JPL Opportunity Mission Overview](https://www.nasa.gov/press-release/nasa-s-record-setting-opportunity-rover-mission-comes-to-an-end) | NASA Jet Propulsion Laboratory (JPL) | Landing date (Jan 24, 2004) · distance driven (45.16 km / 28.06 mi) · mission duration (15 years) · hematite and gypsum discoveries |
+| **Primary** | [NASA Opportunity Overview](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/) | NASA Jet Propulsion Laboratory (JPL) | Landing date (Jan 24, 2004) · distance driven (45.16 km / 28.06 mi) · mission duration (15 years) · hematite and gypsum discoveries |
 | **Secondary** | [NASA Science: Mars Exploration Rovers Highlights](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/science-highlights/) | NASA Science Planetary Division | Surface-water evidence · Gusev and Meridiani Planum geological findings |
 
 ### Core 2 — Apollo Lunar Roving Vehicle (Moon)
