@@ -35,7 +35,7 @@
 | | Source | Publisher | Key verified data |
 |---|---|---|---|
 | **Primary** | [Apollo 15 Lunar Module / LRV record (NSSDCA/COSPAR ID: 1971-063C)](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063C) | NASA National Space Science Data Center (NSSDC) | Landing date (July 30, 1971) · total distance driven (27.9 km on Apollo 15; 36 km on Apollo 17) · lunar speed record (11.2 mph) |
-| **Secondary** | [NASA Marshall LRV Historical Archive](https://www.nasa.gov/centers/marshall/history/lrv.html) | NASA Marshall Space Flight Center | Battery-powered drive system · mass · dimensions · deployment mechanics |
+| **Secondary** | [NASA LRV Historical Archive](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063C) | NASA Marshall Space Flight Center | Battery-powered drive system · mass · dimensions · deployment mechanics |
 
 ### Core 3 — Ingenuity Mars Helicopter (Mars)
 
