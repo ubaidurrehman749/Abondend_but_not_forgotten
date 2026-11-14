@@ -9,16 +9,16 @@
       "Panoramic Camera (Pancam)",
       "Microscopic Imager",
       "Alpha Particle X-Ray Spectrometer (APXS)",
-      "M\u00f6ssbauer Spectrometer",
+      "Mössbauer Spectrometer",
       "Miniature Thermal Emission Spectrometer (Mini-TES)"
     ],
-    "story": "Landed on Mars in 2004 for a planned 90-day mission, Opportunity explored the Red Planet for over 15 years, traveling 28 miles. It discovered hematite blueberries and gypsum veins\u2014conclusive proof that liquid water once flowed across Mars surface. A planet-wide dust storm in 2018 cut off its solar power, leaving the silent geologist on Meridiani Planum.",
+    "story": "Landed on Mars in 2004 for a planned 90-day mission, Opportunity explored the Red Planet for over 15 years, traveling 28 miles. It discovered hematite blueberries and gypsum veins—conclusive proof that liquid water once flowed across Mars surface. A planet-wide dust storm in 2018 cut off its solar power, leaving the silent geologist on Meridiani Planum.",
     "status": {
       "value": "inactive",
       "checkedOn": "2026-11-15"
     },
     "verified": true,
-    "verifiedBy": "Zarnish (Content & Research Lead)",
+    "verifiedBy": "Zarnish Fatima (Content & Resource Lead)",
     "evidence": [
       {
         "text": "Opportunity discovered hematite blueberries and gypsum veins, proving liquid water was long-standing on ancient Mars.",
@@ -55,6 +55,7 @@
         "url": "https://www.nasa.gov/press-release/nasa-s-record-setting-opportunity-rover-mission-comes-to-an-end"
       },
       {
+        "id": "nasa-opportunity-mer-highlights",
         "title": "Mars Exploration Rovers Science Highlights",
         "publisher": "NASA Science Planetary Division",
         "url": "https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/science-highlights/"
@@ -64,12 +65,14 @@
       {
         "asset": "3D Model of MER Opportunity Rover",
         "source": "NASA Visualization Technology Applications and Development (VTAD)",
-        "license": "NASA Media Usage Guidelines (Public Domain)"
+        "license": "NASA Media Usage Guidelines (Public Domain)",
+        "url": "https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/"
       },
       {
         "asset": "Pancam Self-Portrait and Panorama Images",
         "source": "NASA/JPL-Caltech/Cornell/Arizona State University",
-        "license": "NASA Public Domain"
+        "license": "NASA Public Domain",
+        "url": "https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/"
       }
     ]
   },
@@ -91,7 +94,7 @@
       "checkedOn": "2026-11-15"
     },
     "verified": true,
-    "verifiedBy": "Zarnish (Content & Research Lead)",
+    "verifiedBy": "Zarnish Fatima (Content & Resource Lead)",
     "evidence": [
       {
         "text": "Expanded astronaut traverse range up to 7.6 km from the lander and enabled the collection of 283 kg of lunar geology samples across three Apollo missions.",
@@ -128,6 +131,7 @@
         "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/displayTrajectory.action?id=1971-063C"
       },
       {
+        "id": "nasa-apollo-lrv-marshall",
         "title": "Lunar Roving Vehicle Overview and Technical Specifications",
         "publisher": "NASA Marshall Space Flight Center",
         "url": "https://www.nasa.gov/centers/marshall/history/lrv.html"
@@ -137,12 +141,14 @@
       {
         "asset": "3D Model of Apollo Lunar Roving Vehicle",
         "source": "NASA 3D Resources / Marshall Space Flight Center",
-        "license": "NASA Public Domain"
+        "license": "NASA Public Domain",
+        "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063C"
       },
       {
         "asset": "Apollo 15 & 17 Lunar Surface Photography",
         "source": "NASA History Program Office",
-        "license": "NASA Public Domain"
+        "license": "NASA Public Domain",
+        "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063C"
       }
     ]
   },
@@ -158,13 +164,13 @@
       "Black-and-White Navigation Camera (NAV)",
       "Solar Array and Lithium-Ion Battery Pack"
     ],
-    "story": "Arriving on the belly of Perseverance in 2021, Ingenuity achieved the first powered flight on another world\u2014a historic Wright Brothers moment. Designed as a 30-day technology demonstration for just 5 flights, it completed 72 flights over nearly 3 years, serving as an aerial scout for Perseverance before rotor blade damage ended flight operations in January 2024.",
+    "story": "Arriving on the belly of Perseverance in 2021, Ingenuity achieved the first powered flight on another world—a historic Wright Brothers moment. Designed as a 30-day technology demonstration for just 5 flights, it completed 72 flights over nearly 3 years, serving as an aerial scout for Perseverance before rotor blade damage ended flight operations in January 2024.",
     "status": {
       "value": "silent",
       "checkedOn": "2026-11-15"
     },
     "verified": true,
-    "verifiedBy": "Zarnish (Content & Research Lead)",
+    "verifiedBy": "Zarnish Fatima (Content & Resource Lead)",
     "evidence": [
       {
         "text": "Completed 72 successful powered flights covering 17.0 km (10.5 miles) at altitudes up to 24 meters in Mars ultra-thin atmosphere.",
@@ -201,6 +207,7 @@
         "url": "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/"
       },
       {
+        "id": "nasa-ingenuity-hq",
         "title": "NASA Ingenuity Helicopter Logs Final Flight on Mars",
         "publisher": "NASA Headquarters Press Release",
         "url": "https://www.nasa.gov/press-release/after-3-years-on-mars-nasa-s-ingenuity-helicopter-mission-ends"
@@ -210,12 +217,14 @@
       {
         "asset": "3D Model of Ingenuity Mars Helicopter",
         "source": "NASA/JPL-Caltech",
-        "license": "NASA Public Domain"
+        "license": "NASA Public Domain",
+        "url": "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/"
       },
       {
         "asset": "WATSON and NAVCAM Flight Images",
         "source": "NASA/JPL-Caltech/MSSS",
-        "license": "NASA Public Domain"
+        "license": "NASA Public Domain",
+        "url": "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/"
       }
     ]
   }
