@@ -42,4 +42,4 @@ Mission facts, evidence labels, and legacy statements in the app are checked aga
 
 ---
 
-*Verified and Published by Zarnish Fatima (Content & Resource Lead) - November 15, 2026*
+*Verified and Published by Zarnish Fatima (Content & Resource Lead) - November 14, 2026*
