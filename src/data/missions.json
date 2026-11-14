@@ -1,3 +1,4 @@
+
 [
   {
     "id": "opportunity",
@@ -15,11 +16,15 @@
     "story": "Landed on Mars in 2004 for a planned 90-day mission, Opportunity explored the Red Planet for nearly 15 years, traveling 28 miles. It discovered hematite blueberries and gypsum veins—conclusive proof that liquid water once flowed across Mars surface. A planet-wide dust storm in 2018 cut off its solar power, leaving the silent geologist on Meridiani Planum.",
     "status": {
       "value": "inactive",
-      "checkedOn": "2026-11-15"
+      "checkedOn": "2026-11-14"
     },
     "verified": true,
     "verifiedBy": "Zarnish Fatima (Content & Resource Lead)",
     "evidence": [
       {
         "text": "Opportunity discovered hematite blueberries and gypsum veins, proving liquid water was long-standing on ancient Mars.",
-        "label": "confirmed",
+        "label": "confirmed"
+      }
+    ]
+  }
+]
