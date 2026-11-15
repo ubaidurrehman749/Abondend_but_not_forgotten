@@ -18,7 +18,7 @@ This document tracks the accuracy of historical and scientific information prese
 
 | No. | Subject | Information to Verify | Source | Status |
 |---|---|---|---|---|
-| 1 | Opportunity Rover | Launch date, landing date, mission objectives, and achievements | [NASA official mission archive (source to be added)](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/science-highlights/?utm_source=chatgpt.com) | Verified |
+| 1 | Opportunity Rover | Launch date, landing date, mission objectives, and achievements | [NASA official mission archive ](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/science-highlights/?utm_source=chatgpt.com) | Verified |
 | 2 | Spacecraft / Mission | Mission name, launch date, destination, and objectives | NASA official website | Verified |
 | 3 | Space Exploration | Historical events and scientific discoveries | NASA official publications | Verified |
 | 4 | Mission Equipment | Names, functions, and technical details of equipment | NASA technical resources | Verified |
@@ -60,6 +60,4 @@ This document will be updated as project information is reviewed and verified. A
 
 | Contributor | GitHub Username | Role | Responsibilities | Status |
 |---|---|---|---|---|
-| Ali Hassan | [alihassanishfaq](https://github.com/alihassanishfaq) | Fact-Checker / QA / Design | Preparing fact-check documentation, researching and verifying NASA mission information, validating sources, recording corrections, and maintaining the fact-check log. | In Progress |
-
-**GitHub Profile:** https://github.com/alihassanishfaq
+| Ali Hassan | [alihassanishfaq](https://github.com/alihassanishfaq) | Fact-Checker / QA / Design | Preparing fact-check documentation, researching and verifying NASA mission information, validating sources, recording corrections, and maintaining the fact-check log. | Completed |
