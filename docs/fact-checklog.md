@@ -51,7 +51,7 @@ Use reliable primary sources, preferably:
 
 This document will be updated as project information is reviewed and verified. All unresolved facts should be checked before the final project submission.
 
-**Last Updated:** November 14, 2026  
+**Last Updated:** November 15, 2026  
 **Responsible Team:** Fact-Checking / QA
 
 ---
